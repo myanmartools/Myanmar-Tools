@@ -1080,12 +1080,12 @@
   dependencies:
     tslib "^2.0.0"
 
-"@dagonmetric/ng-config@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-config/-/ng-config-2.2.2.tgz#e617440aae8b4b253d696d8eeca8a23da6b7c473"
-  integrity sha512-QaaXyOdruCTZW2iHQSrGILTkKcBdRUYzn38wcALMedAMN1QoHGa+sIAdw1y9svvOkonMaDvNMSCiqWAN6At41g==
+"@dagonmetric/ng-config@^4.3.2":
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@dagonmetric/ng-config/-/ng-config-4.3.2.tgz#3889b8a93d38f60977f4381b3d77521342d209db"
+  integrity sha512-i9VW+wtx/2l0tlgw2qNcdOU5dxOrp34bOoEWOscYZLhx6FbovixX6fTRKsMiS5hgiHaFjU7oALuYymfBO2aWjg==
   dependencies:
-    tslib "^1.10.0"
+    tslib "^2.0.0"
 
 "@dagonmetric/ng-log-gtag@^2.3.2":
   version "2.3.2"
